@@ -21,6 +21,3 @@ Languages/Skills used:
 7. jQuery
 8. JSON
 
-
-
-Developed by: Manu Arora and Yash Saluja
